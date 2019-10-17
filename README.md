@@ -40,3 +40,5 @@
   - CNN + GRU w/ skip connections
   - CNN + GRU + Attention w/ skip connections
   - CNN + GRU + Doc2Vec + Attension w/ skip connections
+  
+- GLTR: http://gltr.io/
