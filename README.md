@@ -35,3 +35,8 @@
 - FastText: https://github.com/facebookresearch/fastText
 
 - Pre-trained GloVe: https://nlp.stanford.edu/projects/glove/
+
+- Hand-build models: 
+  - CNN + GRU w/ skip connections
+  - CNN + GRU + Attention w/ skip connections
+  - CNN + GRU + Doc2Vec + Attension w/ skip connections
