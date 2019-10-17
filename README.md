@@ -1,7 +1,7 @@
 # CS230 Fall 2019, Text Style Transfer
 
 
-## References
+## Related works
 
 - Kim 2014: Convolutional Neural Networks for Sentence Classification https://www.aclweb.org/anthology/D14-1181/
 
