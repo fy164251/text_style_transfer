@@ -22,3 +22,16 @@
 - Shrestha et al. 2017: Convolutional Neural Networks for Authorship Attribution of Short Texts https://www.aclweb.org/anthology/E17-2106/
 
 
+## Available model structures & repos:
+
+- GPT2: https://github.com/ConnorJL/GPT2
+
+- Text-CNN: 
+  - https://github.com/dennybritz/cnn-text-classification-tf
+  - https://github.com/Shawn1993/cnn-text-classification-pytorch
+  - https://github.com/alexander-rakhlin/CNN-for-Sentence-Classification-in-Keras
+  - https://github.com/DongjunLee/text-cnn-tensorflow
+
+- FastText: https://github.com/facebookresearch/fastText
+
+- Pre-trained GloVe: https://nlp.stanford.edu/projects/glove/
