@@ -21,6 +21,8 @@
 
 - Shrestha et al. 2017: Convolutional Neural Networks for Authorship Attribution of Short Texts https://www.aclweb.org/anthology/E17-2106/
 
+- Bownman et al. 2016, Generating Sentences from a Contiuous Space https://arxiv.org/pdf/1511.06349.pdf
+
 
 ## Available model structures & repos:
 
@@ -42,3 +44,5 @@
   - CNN + GRU + Doc2Vec + Attension w/ skip connections
   
 - GLTR: http://gltr.io/
+
+- Source for adversarial classifiers (CAAE, ARAE) for classifying naturalness - https://arxiv.org/pdf/1511.06349.pdf 
