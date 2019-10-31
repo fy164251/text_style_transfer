@@ -45,4 +45,9 @@
   
 - GLTR: http://gltr.io/
 
-- Source for adversarial classifiers (CAAE, ARAE) for classifying naturalness - https://arxiv.org/pdf/1511.06349.pdf 
+- Source for adversarial classifiers (CAAE, ARAE) for classifying naturalness - https://arxiv.org/pdf/1511.06349.pdf
+
+## To-dos:
+
+- Talk to Kian / Andrew for further guidance
+- Closing the loop: use discriminator as an extra filter to select the best K examples, and then use them as input to generator?
