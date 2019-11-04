@@ -47,6 +47,8 @@
 
 - Source for adversarial classifiers (CAAE, ARAE) for classifying naturalness - https://arxiv.org/pdf/1511.06349.pdf
 
+- Stanford NER for discriminator: https://nlp.stanford.edu/software/CRF-NER.html
+
 ## To-dos:
 
 - Talk to Kian / Andrew for further guidance
