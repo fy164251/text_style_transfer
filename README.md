@@ -23,6 +23,8 @@
 
 - Bownman et al. 2016, Generating Sentences from a Contiuous Space https://arxiv.org/pdf/1511.06349.pdf
 
+- Sanh et al. 2019: DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter https://arxiv.org/pdf/1910.01108.pdf
+
 
 ## Available model structures & repos:
 
