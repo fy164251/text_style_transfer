@@ -55,3 +55,10 @@
 
 - Talk to Kian / Andrew for further guidance
 - Closing the loop: use discriminator as an extra filter to select the best K examples, and then use them as input to generator?
+
+- For the upcoming week (from 11.13):
+  - NER checking
+  - Include interprebility for discriminators (e.g. highest activation, evaluation metrics)
+  - Paper editing on overleaf: get overall scores; fill two-line classifier architecture into paper (look for TBD comments)
+  - scope out MTurk 
+  - Read examples of good projects posted
